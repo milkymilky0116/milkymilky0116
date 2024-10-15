@@ -8,9 +8,7 @@ I've been always trying to see world in different perspective. I always want to 
 
 ## Stacks
 
-### Platform & Languages
-
-## Backend
+### Backend
 
 <div>
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
@@ -19,7 +17,7 @@ I've been always trying to see world in different perspective. I always want to 
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 </div>
 
-## Frontend
+### Frontend
 
 <div>
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -28,7 +26,7 @@ I've been always trying to see world in different perspective. I always want to 
     <img src="https://img.shields.io/badge/htmx-3366CC?style=flat-square&logo=htmx&logoColor=white"/>
 </div>
 
-## Devops/DB
+### Devops/DB
 
 <div>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
@@ -36,7 +34,7 @@ I've been always trying to see world in different perspective. I always want to 
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 </div>
 
-## OS/Editor
+### OS/Editor
 
 <div> 
     <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white"/>
