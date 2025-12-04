@@ -2,8 +2,9 @@
 
 Software Engineer, living in Seoul, South Korea
 
-- 🍀 I'm currently creating Open Source Project (TUI Email Client)
-- ✏️ I'm interested in interpreter, LSP, and Neovim ecosystem
+- 🍀 I'm currently creating some open-source project
+- ✏️ I'm interested in Container (OCI), Kubernetes, Linux, Golang / Rust
+- 🔨 Currently planning to build my own Homelab
 
 - 📭 Contact: sjlee990129@gmail.com
 
